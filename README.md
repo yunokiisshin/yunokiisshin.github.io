@@ -1,6 +1,6 @@
 # isshin's Portfolio
 
-I keep my thoughts, ideas, and projects here within my portfolio. 
+I keep my thoughts, ideas, and projects here within my portfolio. Access the contents [here](https://yunokiisshin.github.io/)
 
 This portfolio is built on top of **Chirpy Jekyll Theme**. Huge thanks to all the contributors who made this theme available and versatile! You can access the [theme repository here](https://github.com/cotes2020/jekyll-theme-chirpy/?tab=readme-ov-file) :)
 
