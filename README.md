@@ -1,4 +1,14 @@
-# Chirpy Starter
+# isshin's Portfolio
+
+I keep my thoughts, ideas, and projects here within my portfolio. 
+
+This portfolio is built on top of **Chirpy Jekyll Theme**. Huge thanks to all the contributors who made this theme available and versatile! You can access the [theme repository here](https://github.com/cotes2020/jekyll-theme-chirpy/?tab=readme-ov-file) :)
+
+
+
+
+<!-- below is the original official Chirpy readme contents -->
+<!-- # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
@@ -58,4 +68,4 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE -->
